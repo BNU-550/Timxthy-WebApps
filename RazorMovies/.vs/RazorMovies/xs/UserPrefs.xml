@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{A60EE1E5-799A-498C-AC98-A1FF74DE8DD1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Movies/Index.cshtml">
+    <Files>
+      <File FileName="Models/Movie.cs" Line="21" Column="36" />
+      <File FileName="Data/RazorMoviesContext.cs" Line="1" Column="1" />
+      <File FileName="Pages/Movies/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Pages/Movies/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Movies/Create.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="14" Column="73" />
+      <File FileName="Pages/Movies/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Movies/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Index.cshtml" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorMovies" expanded="True">
+            <Node name="RazorMovies" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RazorMovies PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

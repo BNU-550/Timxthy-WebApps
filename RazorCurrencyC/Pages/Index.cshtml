@@ -1,0 +1,33 @@
+﻿@page
+@model RazorCurrencyConverter.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Razor Pages</h1>
+    <h2>By Tee Arole</h2>
+</div>
+
+<div style="margin-left: 450px">
+    <form style="width:200px">
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Email address</label>
+            <input type="email" required class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+           
+        </div>
+
+        <div class="mb-3">
+            <label for="name" class="form-label">Full Name</label>
+            <input type="text" required class="form-control">
+        </div>
+
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+
+        <p class="col-12">
+            @ViewData["Message"]
+        </p>
+
+    </form>
+</div>
